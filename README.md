@@ -5,3 +5,4 @@ Tecnologias utilizadas:
 * Lombok 
 * MySQL  
 * Spring Data JPA
+* Spring Web
